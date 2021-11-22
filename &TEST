@@ -1,7 +1,0 @@
-let Utilisateurlog = true;
-if (Utilisateurlog){
-  console.log("Utilisateur connecté !");
-} else {
-  console.log("Alerte, quelqu'un essaye de se conneter !")
-  
-}
